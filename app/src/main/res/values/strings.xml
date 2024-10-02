@@ -1,3 +1,29 @@
 <resources>
     <string name="app_name">SwapActiviyWIndow</string>
+    <string name="about_text">
+        У лукоморья дуб зелёный;\n
+        Златая цепь на дубе том:\n
+        И днём и ночью <b>кот учёный</b>\n
+        Всё ходит по цепи кругом;\n
+        Идёт <b>направо</b> - песнь заводит,\n
+        <b>Налево</b> - сказку говорит.
+    </string>
+
+    <string name="about_me">
+        Игнатушин Павел НИколаевич
+    </string>
+
+    <string name="about_me1">
+        Возраст 19 лет
+    </string>
+
+    <string name="about_me2">
+        Увлекаюсь спортом и программированием
+    </string>
+
+    <string name="about_me3">
+        Изучаю: Java, C#,
+        PHP, JavaScript
+    </string>
+
 </resources>
